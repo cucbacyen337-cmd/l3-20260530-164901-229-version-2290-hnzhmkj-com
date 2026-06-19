@@ -1,16 +1,6 @@
-﻿# website-upload-20260530-164901-229
+# 免费电视剧-热播电视剧大全-高清剧集在线播放
 
-Batch 229 of 43. Contains extracted static website versions. The original zip files are not committed.
-
-| Directory | Source zip |
-| --- | --- |
-| version-2281 | project-bolt-sb1-rvnurtkt - 副本-chatgpt (1) (moved 2).zip |
-| version-2282 | project-bolt-sb1-rvnurtkt-chatgpt (1) (moved 1).zip |
-| version-2283 | project-bolt-sb1-rvnurtkt-chatgpt (1).zip |
-| version-2284 | project-bolt-sb1-rvrgjv1b - 副本-chatgpt (1) (moved 1).zip |
-| version-2285 | project-bolt-sb1-rvrgjv1b - 副本-chatgpt (1) (moved 2).zip |
-| version-2286 | project-bolt-sb1-rvrgjv1b-chatgpt (1) (moved 1).zip |
-| version-2287 | project-bolt-sb1-rvuqdumq - 副本-chatgpt (1) (moved 1).zip |
-| version-2288 | project-bolt-sb1-rvuqdumq-chatgpt (1) (moved 1).zip |
-| version-2289 | project-bolt-sb1-rvuqdumq-chatgpt (1).zip |
-| version-2290 | project-bolt-sb1-rwcbr33v - 副本-chatgpt (1) (moved 1).zip |
+- 2000 条影片记录全部展开为静态详情页
+- 10 个独立分类页
+- 1 个首页、1 个分类总览页、1 个排行榜页、1 个搜索页
+- 本地 HLS / MP4 播放示例已生成
